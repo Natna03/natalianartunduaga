@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hola, soy Natalia Núñez
+<img width="1584" height="396" alt="Banner Digital para LinkedIn Profesional Moderno Gris Beige Negro" src="https://github.com/user-attachments/assets/59249c17-cdd6-4ec0-9fca-7c8e456aa1ca" />
+
 
 <!--
 **natalianartunduaga/natalianartunduaga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
