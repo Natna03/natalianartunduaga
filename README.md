@@ -1,5 +1,7 @@
 ![Banner]("C:\Users\natal\Documents\Hoja de Vida\Banner AD\Banner Github.png")
 
+<img width="1584" height="396" alt="C:\Users\natal\Documents\Hoja de Vida\Banner AD\Banner Github.png" src="https://github.com/user-attachments/assets/59249c17-cdd6-4ec0-9fca-7c8e456aa1ca" />
+
 
 Soy analista de datos, apasionada por transformar información en visualizaciones, conjugar y analizar información para que puedan contar, información que indiquen para toma de decisiones. Mi experiencia combina investigación social, análisis cualitativo y cuantitativo, monitoreo de proyectos y construcción de dashboards.
 
