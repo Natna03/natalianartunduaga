@@ -1,23 +1,21 @@
 ![Banner]("C:\Users\natal\Documents\Hoja de Vida\Banner AD\Banner Github.png")
 
-# Hola, soy Natalia Lopera 👋  
-### Analista de Datos | Investigación Social | Dashboards
 
-Soy analista de datos con enfoque social, apasionada por transformar información en visualizaciones, indicadores e insights útiles para la toma de decisiones. Mi experiencia combina investigación social, análisis cualitativo y cuantitativo, monitoreo de proyectos y construcción de dashboards.
+Soy analista de datos, apasionada por transformar información en visualizaciones, conjugar y analizar información para que puedan contar, información que indiquen para toma de decisiones. Mi experiencia combina investigación social, análisis cualitativo y cuantitativo, monitoreo de proyectos y construcción de dashboards.
 
-Me interesa trabajar en proyectos donde los datos permitan comprender problemas sociales, urbanos y de negocio, comunicando hallazgos de forma clara y estratégica.
+Me interesa trabajar en proyectos donde los datos permitan comprender problemas sociales, comunitarios y educativos.
 
 ---
 
 ## Habilidades e intereses
 
-🌱 Me interesa el análisis de datos aplicado a problemas sociales, urbanos y de negocio.
+🌱 Me interesa el análisis de datos aplicado a problemas sociales.
 
 📊 Disfruto construir dashboards, indicadores y visualizaciones que ayuden a comunicar hallazgos de manera clara.
 
 🔎 Tengo experiencia en investigación social, análisis documental, entrevistas, encuestas, monitoreo de proyectos e informes técnicos.
 
-💡 Busco conectar datos, contexto e interpretación para generar recomendaciones útiles para la toma de decisiones.
+💡 Busco conectar datos, contexto e interpretación para generar interpretaciones y recomendaciones sobre los datos recolectados o del proyecto mismo.
 
 ---
 
