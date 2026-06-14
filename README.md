@@ -1,4 +1,4 @@
-<img src="banner.png" alt="Banner_Github-1.png" width="100%">
+<img src="Banner_Github.png" alt="Banner GitHub" width="100%">
 
 
 Soy analista de datos, apasionada por transformar información en visualizaciones, conjugar y analizar información para que puedan contar, información que indiquen para toma de decisiones. Mi experiencia combina investigación social, análisis cualitativo y cuantitativo, monitoreo de proyectos y construcción de dashboards.
