@@ -1,4 +1,4 @@
-![Banner]([https://ejemplo.com/banner.png](https://canva.link/rnrfqt8paj58lgx))
+<img src="banner.png" alt="Banner de perfil" width="100%">
 
 
 Soy analista de datos, apasionada por transformar información en visualizaciones, conjugar y analizar información para que puedan contar, información que indiquen para toma de decisiones. Mi experiencia combina investigación social, análisis cualitativo y cuantitativo, monitoreo de proyectos y construcción de dashboards.
