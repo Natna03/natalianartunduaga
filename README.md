@@ -21,7 +21,7 @@ Me interesa trabajar en proyectos donde los datos permitan comprender problemas 
 
 ## Contacto
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-[Natalia_Nunez_A]-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/natalia-nunez-artunduaga/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-natalia_nunez_a-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/natalia-nunez-artunduaga/)
 [![Email](https://img.shields.io/badge/Email-natalianartunduaga@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:natalianartunduaga@gmail.com)
 ---
 
