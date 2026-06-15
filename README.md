@@ -1,21 +1,32 @@
 <img src="Banner_Github.png" alt="Banner GitHub" width="100%">
 
 
-Soy analista de datos, apasionada por transformar información en visualizaciones, conjugar y analizar información para que puedan contar, información que indiquen para toma de decisiones. Mi experiencia combina investigación social, análisis cualitativo y cuantitativo, monitoreo de proyectos y construcción de dashboards.
+Soy analista de datos con experiencia en investigación social, monitoreo y evaluación de proyectos. Me interesa transformar información cuantitativa y cualitativa en visualizaciones, indicadores e insights que ayuden a comprender mejor los problemas sociales, comunitarios y educativos.
 
-Me interesa trabajar en proyectos donde los datos permitan comprender problemas sociales, comunitarios y educativos.
+---
+
+## Sobre mi enfoque
+
+Me gusta trabajar con datos que no solo muestran números, sino también historias, patrones y oportunidades de mejora. Busco conectar el análisis técnico con el contexto social para generar evidencia útil en la toma de decisiones y en la evaluación de impacto de programas y proyectos.
 
 ---
 
 ## Habilidades e intereses
 
-🌱 Me interesa el análisis de datos aplicado a problemas sociales.
+🌱 Análisis de datos aplicado a problemas sociales, comunitarios y educativos.
 
-📊 Disfruto construir dashboards, indicadores y visualizaciones que ayuden a comunicar hallazgos de manera clara.
+📊 Construcción de dashboards, indicadores y visualizaciones para comunicar hallazgos de forma clara.
 
-🔎 Tengo experiencia en investigación social, análisis documental, entrevistas, encuestas, monitoreo de proyectos e informes técnicos.
+🔎 Investigación social con métodos mixtos: encuestas, entrevistas, análisis documental y sistematización de información.
 
-💡 Busco conectar datos, contexto e interpretación para generar interpretaciones y recomendaciones sobre los datos recolectados o del proyecto mismo.
+📌 Monitoreo y evaluación de proyectos, seguimiento de indicadores e informes técnicos.
+
+💡 Interpretación de datos para generar recomendaciones, identificar patrones y apoyar la toma de decisiones.
+
+---
+Actualmente me interesa
+
+Seguir fortaleciendo proyectos donde el análisis de datos permita comprender realidades sociales, evaluar procesos y comunicar resultados de forma clara, visual y accionable.
 
 ---
 
@@ -47,9 +58,10 @@ Me interesa trabajar en proyectos donde los datos permitan comprender problemas 
 - Construcción de KPIs, indicadores y dashboards.
 - Visualización de datos y data storytelling.
 - Análisis cualitativo y cuantitativo.
-- Diseño de encuestas, entrevistas y análisis documental.
-- Monitoreo y evaluación de proyectos.
-- Elaboración de informes técnicos y recomendaciones.
+- Diseño y análisis de encuestas, entrevistas y fuentes documentales.
+- Monitoreo y evaluación de proyectos sociales, comunitarios y educativos.
+- Sistematización de información y elaboración de informes técnicos.
+- Generación de hallazgos y recomendaciones para la toma de decisiones.
 
 ---
 
@@ -59,10 +71,10 @@ Me interesa trabajar en proyectos donde los datos permitan comprender problemas 
 
 Análisis de ventas, marketing, comportamiento de usuarios y testing A/B para evaluar el desempeño de un servicio de suscripción.
 
-- Identifiqué fricciones entre Add to Cart y Add Payment Info dentro del funnel de conversión.
 - Analicé ventas, canales de adquisición, cohortes y retención de usuarios.
-- Construí un dashboard en Power BI con KPIs de negocio.
-- Propuse acciones orientadas a optimizar el checkout y fortalecer la retención.
+- Identifiqué fricciones entre Add to Cart y Add Payment Info dentro del funnel de conversión.
+- Construí un dashboard en Power BI con KPIs de ventas, marketing y desempeño del negocio.
+- Propuse acciones orientadas a optimizar el checkout, mejorar la experiencia del usuario y fortalecer la retención.
 
 [Ver proyecto](LINK_DEL_REPOSITORIO)
 
@@ -70,11 +82,11 @@ Análisis de ventas, marketing, comportamiento de usuarios y testing A/B para ev
 
 ### Movilidad urbana y productividad económica en ciudades de LATAM
 
-Análisis de congestión, retrasos, contaminación y variables socioeconómicas en ciudades latinoamericanas.
+Análisis de congestión, retrasos, contaminación y variables socioeconómicas en ciudades latinoamericanas para comprender patrones de movilidad y presión urbana.
 
-- Analicé patrones de movilidad urbana en ciudades como Bogotá, Ciudad de México, São Paulo y Lima.
-- Identifiqué ciudades con indicadores críticos de congestión, retrasos y presión urbana.
-- Relacioné movilidad, productividad económica y bienestar social.
-- Construí visualizaciones para comunicar hallazgos de forma clara.
+- Analicé indicadores de movilidad urbana en ciudades como Bogotá, Ciudad de México, São Paulo y Lima.
+- Identifiqué ciudades con niveles críticos de congestión, retrasos y contaminación.
+- Relacioné patrones de movilidad con productividad económica, bienestar social y calidad de vida urbana.
+- Construí visualizaciones para comunicar hallazgos de forma clara y facilitar la comparación entre ciudades.
 
 [Ver proyecto](LINK_DEL_REPOSITORIO)
